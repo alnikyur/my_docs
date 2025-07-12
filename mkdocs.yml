@@ -2,3 +2,5 @@ site_name: Maestro Wiki
 theme:
 #  name: 'material'
   name: 'readthedocs'
+  features:
+  - content.code.copy
